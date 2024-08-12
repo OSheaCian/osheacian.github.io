@@ -8,11 +8,11 @@ main:
   - title: "Research"
     url: https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "CV"
+    url: /cv/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Talks"
+    url: /talks/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
