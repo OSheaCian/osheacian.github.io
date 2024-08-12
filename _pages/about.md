@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🧑 I'm a Teaching Fellow in Economics at Trinity College Dublin, and hold a PhD in Economics from the University of Limerick.
+🧑 I'm a Teaching Fellow in Economics at Trinity College Dublin, and hold a PhD and MSc. in Economics from the University of Limerick.
 
 📜 My research interests focus on the interactions between the public and private sectors to provide public services.
 
