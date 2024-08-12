@@ -14,15 +14,17 @@ redirect_from:
 
 # Selected Experience
 
-## 🔬 Research Experience
+## 💻 Research Experience
 
 I have extensive experience in conducting independent research using both qualitative and quantitative methods. I am currently a member of the P4 (Privatisation and Public-Private Partnerships) Research Cluster at the Kemmy Business School, University of Limerick, where I research the governance and performance of Ireland's Public-Private Partnership (PPP) Sector.
 
 I currently have three peer reviewed works (with another currently under review 🤞) from my PhD thesis. My current work focuses on the hazards of contracting, and on the impact of contractor failure on public sector projects. I have also served as peer reviewer in both economics and public administration.
 
+Feel free to visit my [Google Scholar](https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra) for more information.
+
 ## 🎓 Teaching Experience
 
-I am an experienced higher education teacher with over seven years experience teaching economics at university level. I have taught a variety of undergraduate and postgraduate courses in econometrics, statistics, public finance, and mirco & macro economics. 
+I am an experienced higher education teacher with over seven years experience teaching economics at university level. I have taught a variety of undergraduate and postgraduate courses in econometrics, statistics, public finance, and mirco & macroeconomics. 
 
 To accompany this I have developed videos, inforgraphics, and other material to assist students in learning basic programming, statistics, and mathematical concepts.
 
