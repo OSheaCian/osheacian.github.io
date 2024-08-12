@@ -7,21 +7,20 @@ earc# The following is the order of the links in the header of the website.
 main:
   - title: "Research"
     url: https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra
-
-  #- title: "Talks"
-   # url: /talks/    
-
+    
   - title: "Teaching"
     url: /teaching/    
-    
-  # title: "Portfolio"
-   # url: /portfolio/
-        
-  # title: "Blog Posts"
-   # url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+ 
+# - title: "Blog Posts"
+ # url: /year-archive/    
+# - title: "Guide"
+ #  url: /markdown/
+  
+  #- title: "Talks"
+   # url: /talks/  
+
+     # title: "Portfolio"
+   # url: /portfolio/
