@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Picture of Normal and Paramoral Distributions](/images/paranormal distribution.jpg){: .align-right width="300px"}
+
 🧑 I'm a Teaching Fellow in Economics at Trinity College Dublin, and hold a PhD and MSc. in Economics from the University of Limerick.
 
 📜 My research interests focus on the interactions between the public and private sectors to provide public services.
