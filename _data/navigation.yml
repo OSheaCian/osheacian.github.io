@@ -12,7 +12,7 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /files/githubcv.pdf/   
+    url: https://github.com/OSheaCian/osheacian.github.io/blob/master/files/githubcv.pdf
     
  # - title: "Portfolio"
  #   url: /portfolio/
