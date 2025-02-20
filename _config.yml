@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profilepic.jpg"
   name             : "Cian O'Shea"
-  pronouns         : "He/Him" 
+  pronouns         : # "He/Him" 
   bio              : "Teaching Fellow in Economics"
   location         : "Ireland"
   employer         : "Trinity College Dublin"
