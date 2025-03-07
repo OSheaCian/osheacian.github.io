@@ -6,7 +6,8 @@
 
 main:
   - title: "Research"
-    url: https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra
+    url: /publications/
+    # url: https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra
 
   - title: "Teaching"
     url: /teaching/    
