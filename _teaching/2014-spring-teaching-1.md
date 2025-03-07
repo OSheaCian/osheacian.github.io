@@ -21,8 +21,6 @@ From 2016 to 2023 I worked both part-time and full-time as a Teaching Assistant 
 - EC6061: Applied Data Analysis for Economics (Postgraduate): **Lab Assistant**
 - EC6112: Econometrics (Postgraduate): **Lab Assistant**
 
-
-
 ## EC4904: Principles of Economics (1st Year Undergraduate)
 - **No of Years Taught:** 1
 - **Role:** Module Leader/Lecturer
