@@ -1,5 +1,5 @@
 ---
-title: "Comparing PPP with Traditional Procurement: The ccase of schools Procurement in Ireland"
+title: "Using PPP to Procure Social Infrastructure: Lessons From 20 Years of Experience in Ireland"
 collection: publications
 category: manuscripts
 permalink: /publication/pwmp-paper
