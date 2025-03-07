@@ -8,6 +8,21 @@ type: "Position: Teaching Assistant/Module Leader"
 location: "Limerick, Ireland"
 ---
 
+From 2016 to 2023 I worked both part-time and full-time as a Teaching Assistant in Economics at the University of Limerick. During that time I taught a variety of undergraduate and postgraduate modules. Including
+- EC4904: Principles of Economics (1st Year Undergraduate): **Lecturer**
+- EC4101 & EC4111: Microeconomics (Business and Non-business) (1st Year Undergraduate): **Teaching Assistant**
+- EC4102 & EC4112: Macroeconomics (Business and Non-business) (1st Year Undergraduate): **Teaching Assistant**
+- EC4004: Economics for Business (2nd Year Undergraduate): **Teaching Assistant**
+- EC4404: Applied Economic Analysis (2nd Year Undergraduate): **Teaching Assistant**
+- EC4307: Econometrics (3rd Year Undergraduate): **Lab Assistant**
+- EC4427: Managerial Economics (4th Year Undergraduate): **Teaching Assistant**
+- EC4018 & EC4418: Monetary Economics (4th Year Undergraduate): **Teaching Assistant**
+- EC4408: Public Finance (4th Year Undergraduate): **Teaching Assistant**
+- EC6061: Applied Data Analysis for Economics (Postgraduate): **Lab Assistant**
+- EC6112: Econometrics (Postgraduate): **Lab Assistant**
+For more details on the each module click the link above.
+
+
 ## EC4904: Principles of Economics (1st Year Undergraduate)
 - **No of Years Taught:** 1
 - **Role:** Module Leader/Lecturer
@@ -44,7 +59,7 @@ location: "Limerick, Ireland"
 - **Topics Covered:** Economic Modelling, Regression Analysis, OLS, Statistics, Classical Linear Regression, Homoscedasticity, Autocorrelation, Multicollinearity, Gauss-Markov Theorem, Hypothesis Testing, Multiple-Regression Analysis, Model Estimation, STATA, and R.
 - **Teaching Methods Employed:** In-class workshops, applied data and programming instruction, facilitating group assignments and discussion.
 
-## Managerial Economics (4th Year Undergraduate)
+## EC4427: Managerial Economics (4th Year Undergraduate)
 - **No of Years Taught:** 4
 - **Role:** Lead TA, created tutorial material, instructed tutorial sessions, facilitated group discussion, and graded assignments and final exams.
 - **Topics Covered:** Advanced Microeconomics, Theory of the firm, Corporate Governance, Demand Analysis, Demand Estimation, Plant Optimisation, Make or Buy, and Production Analysis.
