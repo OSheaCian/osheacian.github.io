@@ -7,6 +7,18 @@ venue: "Trinity College Dublin, Department of Economics"
 date: 2023-01-01
 location: "Dublin, Ireland"
 ---
+From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity College Dublin. During that time I taught and developed a variety of undergraduate and postgraduate modules. Including
+- ECU33082 Mathematical Economics (3rd Year Undergraduate): **Lectuer**
+- TEU00462 Sustainable Development Goals and Policy Evaluation (2nd Year Undergraduate Elective): Lectuer
+- ECP77230 Research Methods for Economic Policy Analysis (MSc. Economics and MSc. in Economic Policy): Lecturer
+- ECP77403 Introduction to Statistics and Regression Analysis (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
+- ECP77421 Microeconometrics (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
+- ECP77432 Macroeconometrics (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
+- ECP77172 Quantitative Methods for Economics I (1st Year MSc. in Economic Policy): Lecturer
+- ECP77001 Econometrics I (MSc. Economics): Lab Assistant
+- ECP77002 Econometrics II (MSc. Economics): Lab Assistant
+
+For more details on the above modules click the link above.
 
 ## ECU33082 Mathematical Economics (3rd Year Undergraduate)
 - **No of Years Taught:** 1
@@ -44,7 +56,7 @@ location: "Dublin, Ireland"
 - **Topics Covered:** Time Series Analysis, ARIMA modelling, ARCH, Trends Cointegration, Causality in Time Series, Vector Auto-Regressive Models.
 - **Teaching Methods Employed:** In-person lectures and STATA labs, STATA video tutorials, homework, problem sets, and applied research assignments.
 
-## ECP77172 Quantitative Methods of Economics I (1st Year MSc. in Economic Policy)
+## ECP77172 Quantitative Methods for Economics I (1st Year MSc. in Economic Policy)
 - **No of Years Taught:** 1
 - **Role:** Module Leader/Lecturer and Lab Assistant
 - **Topics Covered:** Introductory Probability and Statistics, Discrete and Continuous Distributions, Sampling Distributions, Estimation, and Hypothesis Testing
