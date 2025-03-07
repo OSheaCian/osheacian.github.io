@@ -8,7 +8,7 @@ type: "Position: Teaching Assistant/Module Leader"
 location: "Limerick, Ireland"
 ---
 
-From 2016 to 2023 I worked both part-time and full-time as a Teaching Assistant in Economics at the University of Limerick. During that time I taught a variety of undergraduate and postgraduate modules. Including
+From 2016 to 2023 I worked both part-time and full-time as a Teaching Assistant in Economics at the University of Limerick. During that time I taught a variety of undergraduate and postgraduate modules *(For more details on the each module click the link above.)*
 - EC4904: Principles of Economics (1st Year Undergraduate): **Lecturer**
 - EC4101 & EC4111: Microeconomics (Business and Non-business) (1st Year Undergraduate): **Teaching Assistant**
 - EC4102 & EC4112: Macroeconomics (Business and Non-business) (1st Year Undergraduate): **Teaching Assistant**
@@ -20,7 +20,7 @@ From 2016 to 2023 I worked both part-time and full-time as a Teaching Assistant 
 - EC4408: Public Finance (4th Year Undergraduate): **Teaching Assistant**
 - EC6061: Applied Data Analysis for Economics (Postgraduate): **Lab Assistant**
 - EC6112: Econometrics (Postgraduate): **Lab Assistant**
-For more details on the each module click the link above.
+
 
 
 ## EC4904: Principles of Economics (1st Year Undergraduate)
