@@ -1,5 +1,5 @@
 ---
-title: "Comparing PPP with Traditional Procurement: The ccase of schools Procurement in Ireland"
+title: "Comparing PPP with Traditional Procurement: The case of schools Procurement in Ireland"
 collection: publications
 category: manuscripts
 permalink: /publication/annals-paper
