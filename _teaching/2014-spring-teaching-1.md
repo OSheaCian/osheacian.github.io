@@ -1,9 +1,10 @@
 ---
 title: "University of Limerick"
 collection: teaching
-type: "2016-2023"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Limerick, Department of Economics"
+date: 2016-01-01
+type: "-2023"
 location: "Limerick, Ireland"
 ---
 
