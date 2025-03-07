@@ -7,7 +7,7 @@ excerpt: 'We compare the ex-ante and ex-post performance of Irelands first Publi
 date: 2022-11-15
 venue: 'Assessing the Performance Advantage of Public-Private Partnerships'
 paperurl: 'https://doi.org/10.4337/9781800889200.00011'
-citation: 'O’Shea, C., Palcic, D. and Reeves, E. (2020)  &quot;From the hypothetical to reality: an analysis of ex-ante and ex-post VfM in Irish PPP schools &quot;, in , in Verweij, S., van Meerkerk, I., Casady, C., eds., Assessing the Performance Advantage of Public-Private Partnerships, Cheltenham: Edward Elgar, 51-74.'
+citation: 'O’Shea, C., Palcic, D. and Reeves, E. (2022)  &quot;From the hypothetical to reality: an analysis of ex-ante and ex-post VfM in Irish PPP schools &quot;, in , in Verweij, S., van Meerkerk, I., Casady, C., eds., Assessing the Performance Advantage of Public-Private Partnerships, Cheltenham: Edward Elgar, 51-74.'
 ---
 
 
