@@ -8,17 +8,16 @@ date: 2023-01-01
 location: "Dublin, Ireland"
 ---
 From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity College Dublin. During that time I taught and developed a variety of undergraduate and postgraduate modules. Including
-- ECU33082 Mathematical Economics (3rd Year Undergraduate): **Lectuer**
-- TEU00462 Sustainable Development Goals and Policy Evaluation (2nd Year Undergraduate Elective): Lectuer
-- ECP77230 Research Methods for Economic Policy Analysis (MSc. Economics and MSc. in Economic Policy): Lecturer
-- ECP77403 Introduction to Statistics and Regression Analysis (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
-- ECP77421 Microeconometrics (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
-- ECP77432 Macroeconometrics (Postgraduate Dip in Applied Economics and Big Data): Creator and Lecturer
-- ECP77172 Quantitative Methods for Economics I (1st Year MSc. in Economic Policy): Lecturer
-- ECP77001 Econometrics I (MSc. Economics): Lab Assistant
-- ECP77002 Econometrics II (MSc. Economics): Lab Assistant
-
-For more details on the above modules click the link above.
+- ECU33082 Mathematical Economics (3rd Year Undergraduate): **Lecturer**
+- TEU00462 Sustainable Development Goals and Policy Evaluation (2nd Year Undergraduate Elective): **Lecturer**
+- ECP77230 Research Methods for Economic Policy Analysis (MSc. Economics and MSc. in Economic Policy): **Lecturer**
+- ECP77403 Introduction to Statistics and Regression Analysis (Postgraduate Dip in Applied Economics and Big Data): **Creator and Lecturer**
+- ECP77421 Microeconometrics (Postgraduate Dip in Applied Economics and Big Data): **Creator and Lecturer**
+- ECP77432 Macroeconometrics (Postgraduate Dip in Applied Economics and Big Data): **Creator and Lecturer**
+- ECP77172 Quantitative Methods for Economics I (1st Year MSc. in Economic Policy): **Lecturer**
+- ECP77001 Econometrics I (MSc. Economics): **Lab Assistant**
+- ECP77002 Econometrics II (MSc. Economics): **Lab Assistant**
+For more details on the each module click the link above.
 
 ## ECU33082 Mathematical Economics (3rd Year Undergraduate)
 - **No of Years Taught:** 1
