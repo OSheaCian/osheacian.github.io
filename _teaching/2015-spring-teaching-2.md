@@ -7,7 +7,6 @@ venue: "Trinity College Dublin, Department of Economics"
 date: 2023-01-01
 location: "Dublin, Ireland"
 ---
-For more details on the each module click the link above.
 From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity College Dublin. During that time I taught and developed a variety of undergraduate and postgraduate modules *(For more details on the each module click the link above)*.
 - ECU33082 Mathematical Economics (3rd Year Undergraduate): **Lecturer**
 - TEU00462 Sustainable Development Goals and Policy Evaluation (2nd Year Undergraduate Elective): **Lecturer**
