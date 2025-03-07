@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /files/githubcv.pdf/
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Current Projects"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
