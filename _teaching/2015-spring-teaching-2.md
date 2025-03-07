@@ -1,13 +1,14 @@
 ---
 title: "Trinity College Dublin 2023 - 2025"
 collection: teaching
-type: "Workshop"
+type: "Position: Teaching Fellow in Economics"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Trinity College Dublin, Department of Economics"
 date: 2023-01-01
 location: "Dublin, Ireland"
 ---
-From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity College Dublin. During that time I taught and developed a variety of undergraduate and postgraduate modules. Including
+For more details on the each module click the link above.
+From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity College Dublin. During that time I taught and developed a variety of undergraduate and postgraduate modules *(For more details on the each module click the link above)*.
 - ECU33082 Mathematical Economics (3rd Year Undergraduate): **Lecturer**
 - TEU00462 Sustainable Development Goals and Policy Evaluation (2nd Year Undergraduate Elective): **Lecturer**
 - ECP77230 Research Methods for Economic Policy Analysis (MSc. Economics and MSc. in Economic Policy): **Lecturer**
@@ -17,7 +18,6 @@ From 2023 to 2025 I was employed as a Teaching Fellow in Economics at Trinity Co
 - ECP77172 Quantitative Methods for Economics I (1st Year MSc. in Economic Policy): **Lecturer**
 - ECP77001 Econometrics I (MSc. Economics): **Lab Assistant**
 - ECP77002 Econometrics II (MSc. Economics): **Lab Assistant**
-For more details on the each module click the link above.
 
 ## ECU33082 Mathematical Economics (3rd Year Undergraduate)
 - **No of Years Taught:** 1
