@@ -2,11 +2,11 @@
 title: "Comparing PPP with Traditional Procurement: The ccase of schools Procurement in Ireland"
 collection: publications
 category: manuscripts
-permalink: /publication/annals-paper
-excerpt: 'Advocates of public-private partnerships (PPPs) argue that they can deliver public infrastructure more efficiently than traditional procurement through timelier completion and superior value for money. Despite these claims comparative analysis of the performance of both procurement methods has received scant attention in the PPP literature to date. This paper addresses this issue by providing an in-depth, case-based comparison of PPP versus traditional procurement in the schools sector in Ireland. Through detailed semi-structured interviews with key stakeholders and an examination of the available documentation, we assess whether the key objectives of using PPP have been achieved. Overall, we find no evidence that PPP leads to faster delivery of infrastructure when the overall procurement process from contract notice to delivery is accounted for. In addition, we find only limited evidence to suggest that PPP results in better value for money.'
-date: 2018-12-11
-venue: 'Annals of Public and Cooperative Economics'
-paperurl: 'https://doi.org/10.1111/apce.12236'
-citation: 'O’Shea, C., Palcic, D. and Reeves, E. (2018)  &quot;Comparing PPP with traditional procurement: The case of schools procurement in Ireland &quot;, <i>Annals of Public and Cooperative Economics</i>, 90(2), pp. 245–267.'
+permalink: /publication/pwmp-paper
+excerpt: 'Ireland has almost two decades of experience with using public private partnerships (PPPs) for the procurement of social infrastructure such as schools, courthouses, and health facilities. This article focuses on Ireland’s schools sector where 27 school buildings with an estimated capital value of €500 million have been procured via PPP to date. We review the changes that have occurred to the governance of PPPs and supporting institutional structures, which have evolved considerably over the past 20 years. Evidence of policy learning has led to the development of detailed PPP guidelines and the establishment of a centralized PPP agency with responsibilities that exceed international norms. We highlight how the development of PPP institutions has been an ongoing and gradual process, which will continue to evolve if concerns in relation to accountability and transparency are to be addressed.'
+date: 2020-01-22
+venue: 'Public Works Management & Policy'
+paperurl: 'https://doi.org/10.1177/1087724X19899100'
+citation: 'O’Shea, C., Palcic, D. and Reeves, E. (2020)  &quot;Using PPP to Procure Social Infrastructure: Lessons From 20 Years of Experience in Ireland &quot;, <i>Public Works Management & Policy</i>, 25(1), pp. 201–213.'
 ---
 
