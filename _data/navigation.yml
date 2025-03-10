@@ -13,7 +13,7 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /files/githubcv.pdf/
+    url: /cv/
     
   - title: "Current Projects"
     url: /portfolio/
