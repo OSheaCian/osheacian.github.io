@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 ## My CV
 
-<embed src="/files/githubcv.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/files/githubcv.pdf" type="application/pdf" width="100%" height="200px" />
