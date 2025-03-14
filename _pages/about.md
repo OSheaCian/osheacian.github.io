@@ -9,19 +9,19 @@ redirect_from:
 
 🧑 I'm a Teaching Fellow in Economics at Trinity College Dublin, and hold a PhD and MSc. in Economics from the University of Limerick.
 
-📜 My research interests focus on the interactions between the public and private sectors to provide public services.
+📜 My research interests focus on the economics of public service provision, including nationalisation, municipalisation, government procurement, privatisation, and public-private partnerships.
 
-📚 My teaching interests involve a variety of subjects from the economics of the public sector to economic maths, statistics and econometrics.
+📚 My teaching experience includes a wide variety of subjects from the economics of the public sector to economic maths, statistics and econometrics.
 
 # Selected Experience
 
 ## 💻 Research Experience
 
-I have extensive experience in conducting independent research using both qualitative and quantitative methods. I am currently a member of the P4 (Privatisation and Public-Private Partnerships) Research Cluster at the Kemmy Business School, University of Limerick, where I research the governance and performance of Ireland's Public-Private Partnership (PPP) Sector.
+My research areas focus on the economics of public service delivery. This research area is at the intersection of economics, public policy, public administration, and legal theory. I am affiliated with the P4 (Privatisation and Public-Private Partnerships) Research Cluster at the Kemmy Business School, University of Limerick, where I  published research on the governance and performance of Public-Private Partnerships.
 
-I currently have three peer reviewed works (with another currently under review 🤞) from my PhD thesis. My current work focuses on the hazards of contracting, and on the impact of contractor failure on public sector projects. I have also served as peer reviewer in both economics and public administration.
+I have four peer reviewed works from my PhD thesis including my most recent ABS 4 publication in Public Administration. My current work is focuses on the hazards of contracting, including the impact of COVID-19 and contractor failure on public works projects.
 
-Feel free to visit my [Google Scholar](https://scholar.google.com/citations?user=ODInC3MAAAAJ&hl=en&oi=sra) for more information.
+Feel free to visit my [Research Section](/publications/) or [Current Projects Section](/portfolio/) for more information.
 
 ## 🎓 Teaching Experience
 
