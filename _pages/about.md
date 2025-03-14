@@ -19,7 +19,7 @@ redirect_from:
 
 My research areas focus on the economics of public service delivery. This research area is at the intersection of economics, public policy, public administration, and legal theory. I am affiliated with the P4 (Privatisation and Public-Private Partnerships) Research Cluster at the Kemmy Business School, University of Limerick, where I  published research on the governance and performance of Public-Private Partnerships.
 
-I have four peer reviewed works from my PhD thesis including my most recent ABS 4 publication in Public Administration. My current work is focuses on the hazards of contracting, including the impact of COVID-19 and contractor failure on public works projects.
+I have four peer reviewed works from my PhD thesis including my most recent ABS 4 publication in Public Administration. My current work is focused on the hazards of contracting, including the impact of COVID-19 and contractor failure on public works projects.
 
 Feel free to visit my [Research Section](/publications/) or [Current Projects Section](/portfolio/) for more information.
 
