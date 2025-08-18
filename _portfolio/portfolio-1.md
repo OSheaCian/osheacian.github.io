@@ -1,6 +1,6 @@
 ---
 title: " Examining the Role of Institutional Resilience in European Public-Private Partnerships"
-excerpt: "Public-Private Partnerships often face contract failure, renegotiation, and refinancing. This paper comparatively analyses road PPPs in Ireland and Spain, exploring how national institutional frameworks (centralisation, legal flexibility, oversight) influence these disruptions. Using qualitative case studies and quantitative data, findings show that institutional design is key. Ireland's proactive, centralized model contrasts with Spain's fragmented, reactive system. The study highlights the role of institutional resilience in governance and offers policy recommendations for more robust PPPs."
+excerpt: "Public-Private Partnerships often face contract failure, renegotiation, and refinancing. This paper comparatively analyses road PPPs in Ireland and Spain, exploring how national institutional frameworks (centralisation, legal flexibility, oversight) influence these disruptions. Using qualitative case studies and quantitative data, findings show that institutional design is key. Ireland's proactive, centralised model contrasts with Spain's decentralised, reactive system. The study highlights the role of institutional resilience in governance and offers policy recommendations for more robust PPPs."
 collection: portfolio
 ---
 
