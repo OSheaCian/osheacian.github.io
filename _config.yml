@@ -24,9 +24,9 @@ author:
   avatar           : "profilepic.jpg"
   name             : "Cian O'Shea"
   pronouns         : # "He/Him" 
-  bio              : "Teaching Fellow in Economics"
+  bio              : "Economics Researcher"
   location         : "Ireland"
-  employer         : "Trinity College Dublin"
+  employer         : # "Trinity College Dublin"
   uri              : # URL
   email            : # "cioshea1@tcd.ie" 
 
