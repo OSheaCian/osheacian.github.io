@@ -21,7 +21,7 @@ My research areas focus on the economics of public service delivery. This resear
 
 I have four peer-reviewed works from my PhD thesis including my most recent ABS 4 publication in Public Administration. My current work is focused on the hazards of contracting, including the impact of COVID-19 and contractor failure on public works projects.
 
-Feel free to visit my [Research Section](/publications/) or [Current Projects Section](/portfolio/) for more information. If you are interested in working with me on any of the projects listed, or have another project, please reach out at [cian.oshea@outlook.ie][cian.oshea@outlook.ie]
+Feel free to visit my [Research Section](/publications/) or [Current Projects Section](/portfolio/) for more information. If you are interested in working with me on any of the projects listed, or have another project, please reach out at [cian.oshea@outlook.ie](cian.oshea@outlook.ie)
 
 ## 🎓 Teaching Experience
 
